@@ -40,6 +40,17 @@ dependencies {
     // Flexbox
     implementation 'com.google.android:flexbox:1.1.0'
 
+    //Facebook
+    //implementation 'com.firebaseui:firebase-ui-auth:5.1.0'
+
     //FirebaseUI
     implementation 'com.firebaseui:firebase-ui-auth:5.1.0'
+
+    //ButterKnife
+    implementation 'com.jakewharton:butterknife:10.1.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.1.0'
+
+    //Dexter
+    implementation 'com.karumi:dexter:5.0.0'
+
 }

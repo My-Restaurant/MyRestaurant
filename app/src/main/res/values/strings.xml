@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Restaurant</string>
+    <string name="FACEBOOK_APP_ID">RandomId</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">RandomToken</string>
 </resources>
